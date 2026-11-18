@@ -35,6 +35,8 @@ Data engineers who define ELT pipelines in versioned configuration.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-project` | A first Meltano project: taps, targets, and jobs |
